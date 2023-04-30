@@ -91,7 +91,7 @@
 
 <p>Как решал: Все скрипты были написаны на Metabase в диалекте PostgreSql  <p>
   
-> <a href="[https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing](https://drive.google.com/drive/folders/1CVUz_CBS-yH6S5rT302t2m2iNVWzNA0Q)">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing](https://drive.google.com/drive/folders/1CVUz_CBS-yH6S5rT302t2m2iNVWzNA0Q">Ссылка на проект</a>
 
   <p>Выводы (итоги):<p>
 <ol>
